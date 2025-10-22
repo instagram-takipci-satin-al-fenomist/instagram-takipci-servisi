@@ -1,4 +1,4 @@
-# instagram-follower-service (Template)
+# instagram-follower-service (Template) - Çalışma
 
 Provider-agnostik bir *sipariş akışı* servisi. **Gerçek takipçi/etkileşim göndermez.**  
 Amaç: ürün tanımları, sipariş oluşturma, idempotency, adapter arayüzü, webhook iskeleti ve kuyruk mantığını örneklemek.
